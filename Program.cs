@@ -14,6 +14,7 @@ namespace LINQGroupBy
                 new Employee("Ken", "Njenga", "Sales"),
                 new Employee("Paul", "Kiprotech", "Project Management"),
                 new Employee("Isaac", "Soita","Project Management"),
+                new Employee("James", "Kimani", "Development"),
                 new Employee("James", "Kimani", "Development")
             };
 
